@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Heart
+comment0.text=\r\n\ Class\ to\ get\ an\ image\ of\ the\ item\ 'Heart'\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Heart()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

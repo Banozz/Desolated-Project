@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StoryLine
+comment0.text=\r\n\ Class\ to\ display\ the\ beginning\ of\ the\ story\ from\ the\ game\ to\ the\ screen\r\n\ \r\n\ AUTHOR\:\ Elvizto\ Juan\ Khresnanda\ &\ Ibrahim\ Nur\ Huda\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=StoryLine()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StoryLine.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ displayTextEffect()
+comment5.params=
+comment5.target=void\ blinkSpaceText()
+comment6.params=
+comment6.target=void\ displaySpaceText()
+numComments=7
