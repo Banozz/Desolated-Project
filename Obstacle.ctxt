@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Obstacle
+comment0.text=\r\n\ Class\ for\ the\ obstacles\ in\ the\ game\r\n\ \r\n\ AUTHOR\:\ Elvizto\ Juan\ Khresnanda\ &\ Ibrahim\ Nur\ Huda\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=direction
+comment1.target=Obstacle(java.lang.String)
+comment2.params=direction
+comment2.target=void\ setImageForDirection(java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

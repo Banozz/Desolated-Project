@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Wall
+comment0.text=\r\n\ Class\ to\ create\ a\ wall\ for\ the\ entire\ game\r\n\ \r\n\ AUTHOR\:\ Elvizto\ Juan\ Khresnanda\ &\ Ibrahim\ Nur\ Huda\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Wall()
+comment1.text=builds\ simple\ image\ for\ wall\ objects
+numComments=2

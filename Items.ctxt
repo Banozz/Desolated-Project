@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Items
+comment0.text=\r\n\ Class\ for\ items\ that\ the\ 'Player'\ will\ interact\ with\r\n\ \r\n\ AUTHOR\:\ Elvizto\ Juan\ Khresnanda\ &\ Ibrahim\ Nur\ Huda\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Items()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ isTaken()
+comment4.params=taken
+comment4.target=void\ setTaken(boolean)
+numComments=5

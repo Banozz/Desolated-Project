@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GameOver
+comment0.text=\r\n\ Class\ to\ display\ the\ game\ over\r\n\ \r\n\ AUTHOR\:\ Elvizto\ Juan\ Khresnanda\ &\ Ibrahim\ Nur\ Huda\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GameOver()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ stopMusic()
+numComments=4

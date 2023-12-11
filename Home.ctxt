@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Home
+comment0.text=\r\n\ Class\ to\ display\ the\ intro\ of\ the\ game\ to\ the\ screen\r\n\ \r\n\ AUTHOR\:\ Elvizto\ Juan\ Khresnanda\ &\ Ibrahim\ Nur\ Huda\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Home()
+comment2.params=
+comment2.target=void\ act()
+numComments=3
