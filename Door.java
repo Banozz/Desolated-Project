@@ -11,9 +11,15 @@ public class Door extends Wall
     public void act(){
     }
     public Door(){
-        GreenfootImage img = new GreenfootImage(Maze.Unit*3, Maze.Unit-1);
-        img.setColor(Color.GRAY);
-        img.fill();
+        String imgName = "ironbars.png";
+        GreenfootImage img = new GreenfootImage(imgName);
+        img.scale(Maze.Unit, Maze.Unit);
+        //img.setColor(Color.BLACK);
+        //img.fill();
+        //setImage(img);
+        //GreenfootImage img = new GreenfootImage(Maze.Unit*3, Maze.Unit-1);
+        //img.setColor(Color.GRAY);
+        //img.fill();
         setImage(img);
     }
 }

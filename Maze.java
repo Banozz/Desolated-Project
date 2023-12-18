@@ -17,7 +17,7 @@ public class Maze extends World
     private int countdown2;
     private boolean gameOver; // Variable to track game over state
     private GreenfootSound bgm2;
-    public static Door door;
+    public static Door door11, door12, door13;
     public static Door2 door2;
     public static Door3 door3;
     public static Battery battery;
@@ -118,9 +118,13 @@ public class Maze extends World
     
     /** creates the initial structure of a maze */
     private void createMaze(){
-        door = new Door();
-        addObject(door, 1125, 1065);
-        door.setRotation(90);
+        door11 = new Door(); 
+        door12 = new Door();
+        door13 = new Door();
+        addObject(door11, 1125, 1035);
+        addObject(door12, 1125, 1065);
+        addObject(door13, 1125, 1095);
+        door11.setRotation(90); door12.setRotation(90); door13.setRotation(90);
         door2 = new Door2();
         addObject(door2,885,915);
         door3 = new Door3();
